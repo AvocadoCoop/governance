@@ -3,15 +3,16 @@
 1. **The address of the head office is:** 42 Menno Street, Waterloo, Ontario, N2L 2A7
 1. **The number (or minimum and maximum number) of directors is: a minim**um of five (5) and a maximum of eleven (11).
 1. **The number (or minimum and maximum number) of directors each stakeholder group in a multi-stakeholder co-operative may elect is:** not applicable
-1. **First directors
-1. **Restrictions, if any, on the business the co-operative may carry on or on powers the co-operative may exercise: none
-1. **The authorized capital for each class of share is:
+1. **First directors**
+1. **Restrictions, if any, on the business the co-operative may carry on or on powers the co-operative may exercise:** none
+1. **The authorized capital for each class of share is:**
 
     an unlimited total capital made up of: 
 
     An unlimited number of Membership  Shares at a par value of $10.00 each; 
 
     Up to $200,000 in Class A Preference Shares at a par value of $100 for a total of 2000 Class A Preference Shares
+	
 1. **The designations, preferences, rights, conditions, restrictions, limitations or prohibitions attaching to the preference shares, if any, are:**
 
     Class A Preference Shares: 
@@ -43,6 +44,7 @@
 	Notice: 
 
 	All notice which Class A preference shareholders are entitled to receive shall be by regular letter post or email as selected by the shareholder.  It is the responsibility of the shareholders to ensure that the Co-operative is advised of any change to their email or letter post address.  
+
 1. **The restrictions on the allotment, issue or transfer of shares are:**
 
 	Membership shares in the Co-operative shall not be transferrable.  
