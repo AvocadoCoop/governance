@@ -1,7 +1,6 @@
 # Bylaws of the Avocado Sustainability Co-operative Inc. #
 
 1. Preliminary
-
 	1. The legal name of the Co-op is The Avocado Sustainability Co-operative Inc. (hereinafter, the “Co-op”).
 	
 	1. The Co-op's purpose is to help our members live more sustainably.
@@ -13,9 +12,7 @@
 	1. These Bylaws may be changed only by special resolution.
 
 1. Becoming a member
-
 	1. To become a member a person must:
-	
 		1. In the case of an individual be at least 16 years of age,
 		
 		1. apply for membership, and
