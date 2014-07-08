@@ -1,3 +1,5 @@
+# Articles of Incorporation of a Co-operative With Share Capital #
+
 1. **The name of the co-operative is:** The Avocado Sustainability Co-operative Inc.
 1. **The head office is at the: Ci**ty of Waterloo in the Regional Municipality of Waterloo
 1. **The address of the head office is:** 42 Menno Street, Waterloo, Ontario, N2L 2A7
