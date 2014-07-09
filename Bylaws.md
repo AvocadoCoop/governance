@@ -12,7 +12,7 @@
 	
 	1. These Bylaws may be changed only by special resolution.
 
-1. Becoming a member
+1. Becoming a Member
 	
 	1. To become a member a person must:
 	
@@ -28,7 +28,7 @@
 	
 	1. Membership is open in a non-discriminatory manner to individuals and corporations that can use the services of the Co-op and are willing and able to accept the responsibilities of membership.
 
-1. Withdrawal from membership
+1. Withdrawal from Membership
 
 	1. An application to withdraw from membership is effective upon:
 		
@@ -56,3 +56,126 @@
 
     1. Upon the approval or deemed approval of an application for membership, the amount paid by the applicant at the time of making his or her application will be applied to the purchase of one membership share, which shall be issued and registered in the applicant’s name. 
 
+1. Allocation of Surplus
+
+    1. The Co-operative may apportion surpluses from its business to any or all of the following:
+    
+        1. an operational reserve fund,
+        
+        1. declaring dividends and paying them to the preference shareholders at a rate not to exceed 5 percent yearly,
+        
+        1. retaining all or part of the residue for the purposes of the Co-operative, 
+
+        1. donating all or part of the residue for charitable or educational purposes,
+        
+        1. declaring patronage returns, and distributing them to the members, and
+        
+        1. such other purposes as may be permitted by the Act.
+
+1. Transfer and Redemption of Shares
+
+    1. A member may apply to the directors for transfer or redemption of shares.
+
+    1. An application to transfer or redeem shares must be:
+
+        1. in a form approved by the directors,
+
+        1. accompanied by the share certificates, if any,
+
+        1. supported by any proof the directors require, and
+
+        1. signed by the transferor of the shares.
+
+    1. The directors may approve, refuse or postpone any application for the transfer or redemption of shares.
+
+    1. The Co-operative may at any time redeem all or part of a member’s preference shares, and pay their par value, plus any premiums as specified in the Articles of Incorporation for the Co-op, to the member in the form of money or in any other form approved by the directors provided that the value of such form of payment is equal to the par value owing to the member.
+
+1. General Meetings
+    
+    1. An annual general meeting must be held each year at a date, time and place set by the directors.
+    
+    1. The directors may call a special general meeting.
+
+    1. The directors must call a special meeting of members within 60 days of receipt of a written petition signed by at least 5 percent of members or 35 members, which ever is larger, which specifies the general nature of the business to be presented at the special meeting, provided that purpose is not inconsistent with the Act. The agenda will be limited to the specific items listed on the petition.
+
+    1. The Co-op shall give notice to the members by publishing the date, time, and place of the annual general meeting, no less than 21 full days in advance of the meeting on the homepage of the Co-op’s Internet website. 
+
+    1. The Co-op may hold two or more members’ meetings at different locations instead of a single general meeting, as permitted by the Act. 
+
+    1. The quorum at a general meeting is 30 percent of members rounded up or 35 members, whichever is smaller, who are eligible to vote at that meeting present at all times.
+    
+    1. [*We may want to change this in short time since no one has been a member for 12 weeks yet.*] Every member who became a member 12 weeks or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
+
+    1. The president or the secretary of the board must preside over every general meeting. If neither is willing or able to preside, the members present must choose another person to preside. 
+
+    1. A general meeting may adopt rules of order. If the meeting does not adopt other rules, or if the rules adopted do not cover the point raised, Robert’s Rules of Order (Newly Revised) must be used as the rules of order, provided that in the event of any conflict between these Rules and Robert’s Rules of Order (Newly Revised), these Rules shall govern. 
+
+    1. A member which is a corporation may appoint an individual to represent it and vote on its behalf at a general meeting, but the appointment must: 
+        
+        1. be in writing, 
+
+        1. identify the appointing member, and the individual appointed, 
+
+        1. identify the meeting in respect of which the representative is appointed, 
+        
+        1. be signed by a duly authorized signatory of the member, and 
+        
+        1. include the date of the signature referred to in paragraph 7.10.4. 
+
+    1. A representative appointed under this Bylaw 7.10 is entitled to exercise at that meeting the same rights on behalf of the member as the member could exercise if it were an individual member present, and must be counted for the purpose of determining quorum.
+
+1. Resolutions
+
+    1. Any member wishing to move a resolution at a general meeting or to have a resolution voted upon during the pre-meeting voting period prior to a general meeting must deliver written notice of a proposed resolution to the Co-op no less than:
+
+        1. [*Later we will want to  make this time longer, in the sort term we will want more flexiability *] 90 days before the date of the general meeting if the proposed resolution is in respect of any matter that must under the Act be approved by an ordinary or special resolution of the members; or
+
+        1. 90 days before the date of the general meeting for any other proposed resolution.
+
+    1. Subject to Bylaw 8.3, the directors may either:
+
+        1. accept any proposed resolution submitted pursuant to Bylaw 8.1, in which case the proposed resolution will be submitted to a vote of the members; or
+
+        1. reject any such proposed resolution, by a directors’ resolution passed by not less than two-thirds of the directors present at the meeting at which the proposed resolution is considered.
+
+    1. The directors will provide reasons for rejecting any proposed resolution to the member who proposed it.
+
+    1. The directors may propose resolutions for approval by the members at a general meeting.
+
+    1. The directors may set a time period prior to a general meeting during which members may vote on a resolution. Notice of any resolution to be submitted to the members for their consideration and approval during the pre-meeting voting period or at an annual or special general meeting will be given to members no less than 21 days before the annual or special general meeting, and may or may not form part of the notice given pursuant to Bylaw 7.4.
+
+    1. The directors may set a record date for voting on any resolution or at any general meeting. If the directors do not determine a record date for any general meeting, the record date for that general meeting will be the day that is 12 weeks prior to the date of the general meeting. Only persons who are members on the record date may vote at a general meeting or during the period referred to in Bylaw 8.7.1 in respect of any resolution for which the Co-operative has given notice to members in accordance with Bylaw 8.5.
+    
+    1. Upon notice of a resolution being given in accordance with Bylaw 8.5, but subject to Bylaws 7.7 and 8.6, members may vote on the resolution:
+        
+        1. prior to the applicable general meeting and during the pre-meeting voting period, by mail, electronic ballot or such other means as may be approved by the directors; and
+        
+        1. where required by the Act or so determined by the directors, at the applicable general meeting.
+        
+1. Electing Directors
+
+    1. The Co-op will set a date for the close of nominations for each election, and will give no less than six weeks notice of such date to members. No nominations of candidates for election of directors in any election will be accepted after the close of nominations. [*It might make sense to restrict how candidates can campaign to prevent “frivolous, vexatious or harmful” candidates, or we could empower the board/nominating committee to vet candidates.*]
+
+    1. The Co-op must give notice to the members of each election of directors and the member’s right to vote, the time period for voting and the manner in which members may request election materials and vote.
+
+    1. [*12 week is too long in the immediate term*]Every member who became a member 12 weeks or more before this or the next annual general meeting is eligible to vote in the current election of directors.
+
+    1. A member may vote by:
+
+        1. mail,
+
+        1. use of an interactive website, or
+
+        1. any other method of transmission approved by the directors.
+
+    1. The directors may decide to conduct an election by preferential voting.
+
+    1. A member’s vote is not valid if:
+
+        1. it is illegible, unintelligible, or ambiguous, or
+        
+        1. the member did not vote, or voted for more than a specified number of candidates, or
+
+        1. it appears that the member voted more than once, in which case none of the votes cast by the member will be counted.
+
+    1. In the event of an interruption of normal postal service or any sustained unavailability of the interactive website contemplated at Bylaw 8.5.2, the directors may extend the time for doing anything required in an election, and any director whose term was to end at the annual general meeting continues in office until the election is concluded.
