@@ -179,3 +179,100 @@
         1. it appears that the member voted more than once, in which case none of the votes cast by the member will be counted.
 
     1. In the event of an interruption of normal postal service or any sustained unavailability of the interactive website contemplated at Bylaw 8.5.2, the directors may extend the time for doing anything required in an election, and any director whose term was to end at the annual general meeting continues in office until the election is concluded.
+
+1. Board of Directors
+
+    1. The board of directors of the Co-operative will consist of five to eleven directors.
+    
+    1. The directors:
+   
+        1. must manage or supervise the management of the business of the Co-operative,
+
+        1. may exercise all the powers of the Co-operative,
+
+        1. may delegate any of their powers to groups of the directors and set terms of reference for groups that are binding on them in exercising the delegated powers,
+
+        1. and may regulate their meetings and affairs.
+
+    1. To qualify for election as a director, a member must, at the close of nominations:
+
+        1. be a resident of Canada,
+
+        1. not be disqualified by the Act from becoming or acting as a director,
+
+    1. The term of office of a director is three years from the close of the annual general meeting at which their election is announced until the close of the annual general meeting held three years later.
+    
+    1. A director may be removed from office before the end of their term by:
+    
+    1. a special resolution,
+
+    1. or a resolution passed by no fewer than 75 percent of all the directors.
+    
+1. Meeting of Board of Directors
+    
+    1. The quorum for a meeting of directors is 50% of directors + 1. 
+    
+    1. There must be at least four meetings of the directors each year
+    
+    1. A person may participate in a meeting of the directors or a committee by electronic means. Each participant in such a meeting must be able to communicate with all the others, and is deemed to be present, and to have agreed to participate. 
+    
+    1. At the first board meeting following an Annual General Meeting, the directors must elect a President, Vice President and a Secretary, who must be members of the board. Officers shall serve for terms of one ‘board service year’ or until election of their successors. Officers may be removed and replaced by a majority decision of the board.
+    
+    1. A resolution approved in writing by at least two-thirds of the directors is as valid as if it had been passed at a directors’ meeting. Approval may be by facsimile, electronic mail, or similar method, provided that it is recorded and verifiable.
+
+1. Indemnification
+
+    1. The Co-operative must indemnify the directors and officers to the maximum extent permitted by the Act.
+    
+    
+1. Dispute Resolution
+
+    1. In any dispute between the Co-op and any of its members, or those formerly having such status, which cannot be resolved through informal negotiation, it shall be the policy of the Co-op to prefer the use of mediation whereby an impartial mediator may facilitate negotiations between the parties and assist them in developing a mutually acceptable settlement. No party with a grievance against the other shall have recourse to litigation until the matter is submitted to mediation and attempted to be resolved in good faith.
+
+1. Fiscal Matters
+
+    1. The fiscal year of the Co-op shall be June 1 - May 31. The Board shall notify the membership of any change to the fiscal year.
+
+    1. The directors may, without the authority of a special resolution, cause the Co-operative to borrow money, and to secure the repayment of money borrowed by means of a charge on all or part of its assets and undertaking.
+
+    1. If required by the Act an auditor must be appointed by ordinary resolution at every annual general meeting. The directors may appoint an auditor to fill a vacancy arising between meetings. The remuneration of the auditor will be set by the directors, provided that the members have by ordinary resolution authorized the directors to do so.
+
+    1. At every annual general meeting, the directors must present the financial statements required by the Act.
+
+    1. The Co-operative must, on request by a member, but no more than once a year, provide a copy of the Co-operative’s latest financial statements and the auditor’s report on them to the member. 
+
+    1. The directors may invest all or part of the funds and assets of the Co-operative in such manner and on such terms as they deem in the best interests of the Co-operative.
+
+1. Notice and Seal
+
+    1. Any notice that must be given to the Co-operative must be in writing, and may be given by:
+
+        1. delivering it to the registered office, or mailing it to the registered office by prepaid mail,
+        
+        1. or by electronic mail sent to board@avocadoproject.ca
+
+        1. or delivering it as is otherwise required or permitted by the Act or these Bylaws. 
+        
+    1. Any notice, materials or other documents which must be given, provided or served by the Co-operative may be given, provided, or served by:
+
+        1. mailing it or them by registered mail to the last know address of the intended recipient, as recorded in the register of members or other record of the Co-operative,
+
+        1. or personal service,
+
+        1. or electronic mail, or similar transmission,
+
+        1. or posting on the Co-operative’s website,
+
+        1. or as is otherwise required or permitted by the Act or these Bylaws.
+
+    1. The seal must not be impressed on any instrument unless that impression is attested to by the signature or signatures of:
+
+        1. any two officers,
+
+        1. an officer and the President, Secretary or Treasurer, or
+
+        1. one or more directors, officers or other persons as determined by resolution of the directors.
+
+    1. If the directors have not adopted a seal for the Co-operative, instruments may be executed on behalf of the Co-operative by the persons specified in Bylaw 15.3.
+
+    1. In the event that any provision of these bylaws is determined to be invalid or unenforceable under any statute or rule of law, then such provision shall be deemed inoperative to such extent and shall be deemed modified to conform with such statute or rule of law without affecting the validity or enforceability of any other provision of these Bylaws.
