@@ -64,9 +64,9 @@
         
         1. declaring dividends and paying them to the preference shareholders at a rate not to exceed 5 percent yearly,
         
-        1. retaining all or part of the residue for the purposes of the Co-operative, 
+        1. retaining all or part of the surpluse for the purposes of the Co-operative, 
 
-        1. donating all or part of the residue for charitable or educational purposes,
+        1. donating all or part of the surpluse for charitable or educational purposes,
         
         1. declaring patronage returns, and distributing them to the members, and
         
@@ -98,13 +98,13 @@
 
     1. The directors must call a special meeting of members within 60 days of receipt of a written petition signed by at least 5 percent of members or 35 members, which ever is larger, which specifies the general nature of the business to be presented at the special meeting, provided that purpose is not inconsistent with the Act. The agenda will be limited to the specific items listed on the petition.
 
-    1. The Co-op shall give notice to the members by publishing the date, time, and place of the annual general meeting, no less than 21 full days in advance of the meeting on the homepage of the Co-op’s Internet website. 
+    1. The Co-op shall give notice to the members by communicating the date, time, and place of the annual general meeting, no less than 6 full days in advance of the meeting by electronic mail.
 
     1. The Co-op may hold two or more members’ meetings at different locations instead of a single general meeting, as permitted by the Act. 
 
     1. The quorum at a general meeting is 30 percent of members rounded up or 35 members, whichever is smaller, who are eligible to vote at that meeting present at all times.
     
-    1. [*We may want to change this in short time since no one has been a member for 12 weeks yet.*] Every member who became a member 12 weeks or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
+    1. Every member who became a member 1 weeks or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
 
     1. The president or the secretary of the board must preside over every general meeting. If neither is willing or able to preside, the members present must choose another person to preside. 
 
@@ -128,7 +128,7 @@
 
     1. Any member wishing to move a resolution at a general meeting or to have a resolution voted upon during the pre-meeting voting period prior to a general meeting must deliver written notice of a proposed resolution to the Co-op no less than:
 
-        1. [*Later we will want to  make this time longer, in the sort term we will want more flexiability *] 90 days before the date of the general meeting if the proposed resolution is in respect of any matter that must under the Act be approved by an ordinary or special resolution of the members; or
+        1. 90 days before the date of the general meeting if the proposed resolution is in respect of any matter that must under the Act be approved by an ordinary or special resolution of the members; or
 
         1. 90 days before the date of the general meeting for any other proposed resolution.
 
@@ -222,7 +222,7 @@
 
 1. Indemnification
 
-    1. The Co-operative must indemnify the directors and officers to the maximum extent permitted by the Act.
+    1. When resources are available, the Co-operative must indemnify the directors and officers to the maximum extent permitted by the Act.
     
     
 1. Dispute Resolution
