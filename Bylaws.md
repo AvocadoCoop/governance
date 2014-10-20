@@ -154,7 +154,7 @@
         
 1. Electing Directors
 
-    1. The Co-op will set a date for the close of nominations for each election, and will give no less than one week notice of such date to members. No nominations of candidates for election of directors in any election will be accepted after the close of nominations. [*It might make sense to restrict how candidates can campaign to prevent “frivolous, vexatious or harmful” candidates, or we could empower the board/nominating committee to vet candidates.*]
+    1. The Co-op will set a date for the close of nominations for each election, and will give no less than one week notice of such date to members. No nominations of candidates for election of directors in any election will be accepted after the close of nominations.
 
     1. The Co-op must give notice to the members of each election of directors and the member’s right to vote, the time period for voting and the manner in which members may request election materials and vote.
 
