@@ -64,9 +64,9 @@
         
         1. declaring dividends and paying them to the preference shareholders at a rate not to exceed 5 percent yearly,
         
-        1. retaining all or part of the surpluse for the purposes of the Co-operative, 
+        1. retaining all or part of the surplus for the purposes of the Co-operative, 
 
-        1. donating all or part of the surpluse for charitable or educational purposes,
+        1. donating all or part of the surplus for charitable or educational purposes,
         
         1. declaring patronage returns, and distributing them to the members, and
         
@@ -104,7 +104,7 @@
 
     1. The quorum at a general meeting is 30 percent of members rounded up or 35 members, whichever is smaller, who are eligible to vote at that meeting present at all times.
     
-    1. Every member who became a member 1 weeks or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
+    1. Every member who became a member one week or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
 
     1. The president or the secretary of the board must preside over every general meeting. If neither is willing or able to preside, the members present must choose another person to preside. 
 
@@ -154,11 +154,11 @@
         
 1. Electing Directors
 
-    1. The Co-op will set a date for the close of nominations for each election, and will give no less than 1 weeks notice of such date to members. No nominations of candidates for election of directors in any election will be accepted after the close of nominations. [*It might make sense to restrict how candidates can campaign to prevent “frivolous, vexatious or harmful” candidates, or we could empower the board/nominating committee to vet candidates.*]
+    1. The Co-op will set a date for the close of nominations for each election, and will give no less than one week notice of such date to members. No nominations of candidates for election of directors in any election will be accepted after the close of nominations. [*It might make sense to restrict how candidates can campaign to prevent “frivolous, vexatious or harmful” candidates, or we could empower the board/nominating committee to vet candidates.*]
 
     1. The Co-op must give notice to the members of each election of directors and the member’s right to vote, the time period for voting and the manner in which members may request election materials and vote.
 
-    1. Every member who became a member 1 weeks or more before this or the next annual general meeting is eligible to vote in the current election of directors.
+    1. Every member who became a member one week or more before this or the next annual general meeting is eligible to vote in the current election of directors.
 
     1. A member may vote by:
 
