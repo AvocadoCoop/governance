@@ -16,13 +16,13 @@
 
 1. Becoming a Member
 
-	1. To become a member a person must:
+  1. To become a member a person must:
 
-		1. In the case of an individual be at least 16 years of age,
+    1. In the case of an individual be at least 16 years of age,
 
-		1. apply for membership, and
+    1. apply for membership, and
 
-		1. subscribe for and own at least one membership share.
+    1. subscribe for and own at least one membership share.
 
 	1. Application for membership must be made in a manner decided by the directors.
 
@@ -40,101 +40,101 @@
 
 	1. An application to withdraw from membership is effective upon:
 
-        1. the member giving notice of withdrawal in the form and in compliance with the policies and procedures for withdrawal established by the directors; and
+    1. the member giving notice of withdrawal in the form and in compliance with the policies and procedures for withdrawal established by the directors; and
 
-        1. if the Co-operative has issued certificates for the shares held by the withdrawing member, upon surrender and delivery of those certificates to the Co-operative.
+    1. if the Co-operative has issued certificates for the shares held by the withdrawing member, upon surrender and delivery of those certificates to the Co-operative.
 
-    1. Membership may be terminated involuntarily for cause by the board in accordance with the procedures outlined in the Act, provided that the member is afforded the opportunity to respond to the charges either in person or in writing.
+  1. Membership may be terminated involuntarily for cause by the board in accordance with the procedures outlined in the Act, provided that the member is afforded the opportunity to respond to the charges either in person or in writing.
 
-    1. Subject to the Co-operative Corporations Act, if a member dies or withdraws from membership, the Co-operative must redeem all the shares of the deceased or withdrawing member within the following time period after receipt of the notice of the member’s death or withdrawal:
+  1. Subject to the Co-operative Corporations Act, if a member dies or withdraws from membership, the Co-operative must redeem all the shares of the deceased or withdrawing member within the following time period after receipt of the notice of the member’s death or withdrawal:
 
-        1. if the member is deceased, or if the withdrawal from membership is due to the member having become permanently terminally ill, and proof of the member’s death or permanent incapacitation is provided to the Co-operative, three months; and
+    1. if the member is deceased, or if the withdrawal from membership is due to the member having become permanently terminally ill, and proof of the member’s death or permanent incapacitation is provided to the Co-operative, three months; and
 
-        1. in all other cases, six months.
+    1. in all other cases, six months.
 
-    1. When a member withdraws from membership or a membership is terminated or ceases for any reason, all rights and privileges attached to membership cease except the right to require the Co-op to redeem the member’s shares.
+  1. When a member withdraws from membership or a membership is terminated or ceases for any reason, all rights and privileges attached to membership cease except the right to require the Co-op to redeem the member’s shares.
 
-    1. The cessation of membership does not release the former member from any debt or obligation owed to the Co-operative unless the instrument of debt or obligation states otherwise.
+  1. The cessation of membership does not release the former member from any debt or obligation owed to the Co-operative unless the instrument of debt or obligation states otherwise.
 
-    1. The Co-operative has a lien, to the extent of the debt, on the shares or loans registered in the name of a member who is indebted to the Co-operative.
+  1. The Co-operative has a lien, to the extent of the debt, on the shares or loans registered in the name of a member who is indebted to the Co-operative.
 
-    1. If a member does not transact any business with the Co-operative for a period of two years, the Board of Directors may terminate his or her membership and upon such termination the Co-operative shall pay to the member any money owing to him or her.
+  1. If a member does not transact any business with the Co-operative for a period of two years, the Board of Directors may terminate his or her membership and upon such termination the Co-operative shall pay to the member any money owing to him or her.
 
 1. Shares
 
-    1. A member will at all times own a membership share.
+  1. A member will at all times own a membership share.
 
-    1. Shares must be paid for in full before being issued.
+  1. Shares must be paid for in full before being issued.
 
-    1. Upon the approval or deemed approval of an application for membership, the amount paid by the applicant at the time of making his or her application will be applied to the purchase of one membership share, which shall be issued and registered in the applicant’s name.
+  1. Upon the approval or deemed approval of an application for membership, the amount paid by the applicant at the time of making his or her application will be applied to the purchase of one membership share, which shall be issued and registered in the applicant’s name.
 
 1. Allocation of Surplus
 
-    1. The Co-operative may apportion surpluses from its business to any or all of the following:
+  1. The Co-operative may apportion surpluses from its business to any or all of the following:
 
-        1. an operational reserve fund,
+    1. an operational reserve fund,
 
-        1. declaring dividends and paying them to the preference shareholders at a rate not to exceed 5 percent yearly,
+    1. declaring dividends and paying them to the preference shareholders at a rate not to exceed 5 percent yearly,
 
-        1. retaining all or part of the surplus for the purposes of the Co-operative,
+    1. retaining all or part of the surplus for the purposes of the Co-operative,
 
-        1. donating all or part of the surplus for charitable or educational purposes,
+    1. donating all or part of the surplus for charitable or educational purposes,
 
-        1. declaring patronage returns, and distributing them to the members, and
+    1. declaring patronage returns, and distributing them to the members, and
 
-        1. such other purposes as may be permitted by the Act.
+    1. such other purposes as may be permitted by the Act.
 
 1. Transfer and Redemption of Shares
 
-    1. A member may apply to the directors for the transfer of shares. Unless the redemption of any shares is contrary to the Co-operative Corporations Act, the directors shall redeem all shares upon a member’s withdrawal upon six months from their notice of withdrawal from membership.
+  1. A member may apply to the directors for the transfer of shares. Unless the redemption of any shares is contrary to the Co-operative Corporations Act, the directors shall redeem all shares upon a member’s withdrawal upon six months from their notice of withdrawal from membership.
 
-    1. An application to transfer or redeem shares must be:
+  1. An application to transfer or redeem shares must be:
 
-        1. in a form approved by the directors,
+    1. in a form approved by the directors,
 
-        1. accompanied by the share certificates, if any,
+    1. accompanied by the share certificates, if any,
 
-        1. supported by any proof the directors require, and
+    1. supported by any proof the directors require, and
 
-        1. signed by the transferor of the shares.
+    1. signed by the transferor of the shares.
 
-    1. The directors may approve, refuse or postpone any application for the transfer or redemption of shares.
+  1. The directors may approve, refuse or postpone any application for the transfer or redemption of shares.
 
-    1. The Co-operative may at any time redeem all or part of a member’s preference shares, and pay their par value, plus any premiums as specified in the Articles of Incorporation for the Co-op, to the member in the form of money or in any other form approved by the directors provided that the value of such form of payment is equal to the par value owing to the member.
+  1. The Co-operative may at any time redeem all or part of a member’s preference shares, and pay their par value, plus any premiums as specified in the Articles of Incorporation for the Co-op, to the member in the form of money or in any other form approved by the directors provided that the value of such form of payment is equal to the par value owing to the member.
 
 1. General Meetings
 
-    1. An annual general meeting must be held each year at a date, time and place set by the directors, but not later than fifteen months after the preceding annual meeting or later than six months after the end of each fiscal year.
+  1. An annual general meeting must be held each year at a date, time and place set by the directors, but not later than fifteen months after the preceding annual meeting or later than six months after the end of each fiscal year.
 
-    1. The directors may call a special general meeting.
+  1. The directors may call a special general meeting.
 
-    1. The directors must call a special meeting of members within 30 days of receipt of a written petition signed by at least 5 percent of members, which specifies the general nature of the business to be presented at the special meeting, provided that purpose is not inconsistent with the Act. The agenda will be limited to the specific items listed on the petition.
+  1. The directors must call a special meeting of members within 30 days of receipt of a written petition signed by at least 5 percent of members, which specifies the general nature of the business to be presented at the special meeting, provided that purpose is not inconsistent with the Act. The agenda will be limited to the specific items listed on the petition.
 
-    1. The Co-op shall give notice to the members by communicating the date, time, and place of the annual general meeting, no less than 10 full days in advance of the meeting by electronic mail.
+  1. The Co-op shall give notice to the members by communicating the date, time, and place of the annual general meeting, no less than 10 full days in advance of the meeting by electronic mail.
 
-    1. The Co-op may hold a general meeting at two or more locations at the same time provided that all participants in such meetings can communicate simultaneously with one another through appropriate electronic means or other technology.
+  1. The Co-op may hold a general meeting at two or more locations at the same time provided that all participants in such meetings can communicate simultaneously with one another through appropriate electronic means or other technology.
 
-    1. The quorum at a general meeting is 30 percent of members rounded up or 35 members, whichever is smaller, who are eligible to vote at that meeting present at all times.
+  1. The quorum at a general meeting is 30 percent of members rounded up or 35 members, whichever is smaller, who are eligible to vote at that meeting present at all times.
 
-    1. Every member who became a member two days or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
+  1. Every member who became a member two days or more before the date of a general meeting is eligible to vote at the meeting and in respect of any resolution that is being voted upon prior to the meeting in accordance with Bylaw 8.7.1, provided that each member has one vote on each matter voted upon at or prior to the meeting.
 
-    1. The president or the secretary of the board must preside over every general meeting. If neither is willing or able to preside, the members present must choose another person to preside.
+  1. The president or the secretary of the board must preside over every general meeting. If neither is willing or able to preside, the members present must choose another person to preside.
 
-    1. A general meeting may adopt rules of order. If the meeting does not adopt other rules, or if the rules adopted do not cover the point raised, Robert’s Rules of Order (Newly Revised) must be used as the rules of order, provided that in the event of any conflict between these Rules and Robert’s Rules of Order (Newly Revised), these Rules shall govern.
+  1. A general meeting may adopt rules of order. If the meeting does not adopt other rules, or if the rules adopted do not cover the point raised, Robert’s Rules of Order (Newly Revised) must be used as the rules of order, provided that in the event of any conflict between these Rules and Robert’s Rules of Order (Newly Revised), these Rules shall govern.
 
-    1. A member which is a corporation may appoint an individual to represent it and vote on its behalf at a general meeting, but the appointment must:
+  1. A member which is a corporation may appoint an individual to represent it and vote on its behalf at a general meeting, but the appointment must:
 
-        1. be in writing,
+    1. be in writing,
 
-        1. identify the appointing member, and the individual appointed,
+    1. identify the appointing member, and the individual appointed,
 
-        1. identify the meeting in respect of which the representative is appointed,
+    1. identify the meeting in respect of which the representative is appointed,
 
-        1. be signed by a duly authorized signatory of the member, and
+    1. be signed by a duly authorized signatory of the member, and
 
-        1. include the date of the signature referred to in paragraph 7.10.4.
+    1. include the date of the signature referred to in paragraph 7.10.4.
 
-    1. A representative appointed under this Bylaw 7.10 is entitled to exercise at that meeting the same rights on behalf of the member as the member could exercise if it were an individual member present, and must be counted for the purpose of determining quorum.
+  1. A representative appointed under this Bylaw 7.10 is entitled to exercise at that meeting the same rights on behalf of the member as the member could exercise if it were an individual member present, and must be counted for the purpose of determining quorum.
 
 1. Resolutions
 
@@ -262,7 +262,20 @@
 
     1. The fiscal year of the Co-op shall be June 1 - May 31. Any change to the co-operative’s fiscal year shall be made by resolution of the Board and confirmed by a special resolution of the members.
 
-    1. The directors may, without the authority of a special resolution, cause the Co-operative to borrow money, and to secure the repayment of money borrowed by means of a charge on all or part of its assets and undertaking.
+    1. The banking business of the Co-operative shall be transacted in such banks, trust companies, credit unions or caisses populaires as may from time to time be designated by resolution of the Board of Directors.  Such banking business or any part thereof shall be transacted under such agreements, instructions, and delegations of power as the Board may from time to time prescribe or authorize by resolution.
+
+    1. Deeds, transfers, assignments, contracts, obligations, certificates, and other documents and instruments may be signed on behalf of the Co-operative by two persons, at least one of one of whom shall hold the office of Chair or President, Vice President, Secretary or Treasurer.  The Directors shall have the power to appoint from time to time, by resolution, any officer or other person to co-sign the aforementioned instruments, either generally or with respect to specific instruments.
+
+    1. Notwithstanding Section 13.3 above, all cheques, drafts, or orders for the payment of money and all notes and acceptances and bills of exchange shall be signed by such officer or officers, or person or persons, whether or not officers of the Co-operative, and in such manner as the Directors may from time to time designate by resolution.
+
+    1. Without limiting the borrowing powers of the Co-operative as set forth in the Co-operative Corporations Act,  but subject to the Co-operative’s Articles of Incorporation, the  Board of Directors may from time to time on behalf of the Co-operative:
+
+      1. borrow money on the credit of the Co-operative;
+      1. issue, sell or pledge securities of the Co-operative;
+      1. issue, reissue, sell or pledge bonds, debentures, notes or other evidences of indebtedness or guarantee of the Co-operative, whether secured or unsecured;
+      1. borrow money from its members not being loans made as a condition of membership or as compulsory loans of patronage returns, in such amounts payable on demand or at such times as specified in the loan instrument, bearing interest at such rate as the Board of Directors may determine by resolution;
+      1. charge, mortgage, hypothecate, pledge or otherwise create a security interest in all or any of the real or personal, moveable or immoveable property, property of the co-operative including without limitation book debts, rights, powers, franchises and undertakings, to secure any securities, bonds, debentures, notes or other evidences of indebtedness or guarantee or any other money borrowed, or other present or future indebtedness, or any other obligation or liability of the Co-operative.
+
 
     1. If required by the Act an auditor must be appointed by ordinary resolution at every annual general meeting. The directors may appoint an auditor to fill a vacancy arising between meetings. The remuneration of the auditor will be set by the directors, provided that the members have by ordinary resolution authorized the directors to do so.
 
